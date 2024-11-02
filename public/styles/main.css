@@ -1,0 +1,24 @@
+body {
+	background-color: #07a19f;
+	min-height: 100vh;
+}
+
+img {
+	/* max-width: 500px !important; */
+	max-height: 500px !important;
+	object-fit: cover;
+}
+
+.card {
+	min-height: 700px;
+	background-color: #07a19f;
+	color: rgb(182, 179, 179);
+}
+.henny-penny-regular {
+	font-family: "Henny Penny", system-ui;
+	font-weight: 400;
+	font-style: normal;
+}
+.border-dashed {
+	border-style: dashed !important;
+}
